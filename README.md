@@ -5,7 +5,7 @@
 ---
 
 ## 🧩 About Me  
-With **7+ years of experience in software quality assurance** across **ERP, e-commerce, and finance domains**, I specialize in connecting **business requirements** with **technical execution**.  
+With **8+ years of experience in software quality assurance** across **ERP, e-commerce, and finance domains**, I specialize in connecting **business requirements** with **technical execution**.  
 My background as a **.NET developer** gives me a strong technical edge in designing scalable, testable, and maintainable systems.  
 
 Currently focused on **AI-driven testing frameworks** and **data analytics for QA**, I’m passionate about leveraging automation and intelligence to improve quality processes and delivery efficiency.
