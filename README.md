@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Enrico Caruso
 
-### 💼 Senior QA / Test Analyst | Former Senior C# Developer | AI Enthusiast
+### 💼 Senior QA / Functional Analyst | Former Senior C# Developer | AI & Data Analytics Enthusiast
 
 ---
 
 ## 🧩 About Me  
-With **8+ years of experience in software quality assurance** across **ERP, e-commerce, and finance domains**, I specialize in connecting **business requirements** with **technical execution**.  
-My background as a **.NET developer** gives me a strong technical edge in designing scalable, testable, and maintainable systems.  
+I’m a **Senior QA and Functional Analyst** with over **8+ years of experience** in **software quality assurance** within **ERP, e-commerce, and finance domains** — building a bridge between **business needs** and **technical implementation**.  
+With a strong background as a **.NET developer**, I bring both **analytical depth** and **technical fluency** to every project I contribute to.  
 
-Currently focused on **AI-driven testing frameworks** and **data analytics for QA**, I’m passionate about leveraging automation and intelligence to improve quality processes and delivery efficiency.
+Currently, I’m focused on **AI-assisted testing**, **data analytics**, and **process optimization** to drive better quality outcomes and accelerate delivery cycles in complex enterprise systems.
 
 ---
 
@@ -17,29 +17,46 @@ Currently focused on **AI-driven testing frameworks** and **data analytics for Q
 | Area | Expertise |
 |------|------------|
 | **QA & Testing** | Manual & Automated Testing (Python, Selenium, Pytest), API Testing (REST, SOAP), Test Strategy |
-| **Programming** | C#/.NET (ex Senior Developer), Python (automation, AI/LLM integration) |
-| **Methodologies** | Agile (Scrum, Kanban), Functional & Regression Testing, Test Design & Planning |
-| **Domain Knowledge** | ERP/Finance, Payments, Taxation, Shipping, E-commerce |
-| **Tools & Frameworks** | PyCharm, YAML/JSON, Jinja2, OpenAI API, Postman, SoapUI |
+| **Functional Analysis** | Business Requirement Gathering, Gap Analysis, Functional Specifications, UAT Coordination |
+| **Programming** | C#/.NET (ex Senior Developer), Python (automation, AI/ML, analytics) |
+| **Methodologies** | Agile (Scrum, Kanban), Functional & Regression Testing, QA Process Design |
+| **Domain Expertise** | ERP/Finance, Payments, Taxation, Shipping, E-commerce |
+| **Tools & Frameworks** | PyCharm, YAML/JSON, Jinja2, OpenAI API, Postman, SoapUI, FastAPI, Docker |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 [AI-Powered Test Case Generator](https://github.com/EnriC-AI/ai-testcase-generator)
-A **Python-based framework** that uses **AI/LLMs** to generate and validate test cases from business specifications.  
+A **Python-based framework** using **AI/LLMs** to generate and validate test cases directly from functional specifications.  
 - **Stack**: Python, Pytest, YAML/JSON, Jinja2, REST API Testing, OpenAI API  
-- **Goal**: Accelerate test case creation and ensure traceability between requirements and test coverage.  
-
-> 💡 *Upcoming*: Integration with Jira/Xray and auto-reporting dashboards.
+- **Focus**: Automating test design and improving traceability between requirements and test coverage.  
 
 ---
 
-## 👨‍💻 Career Snapshot
-- 🧱 Started as a **C#/.NET developer** in London (ERP/Finance systems)  
-- 🧭 Transitioned into **Quality Assurance** and **Functional Analysis**  
-- 🔍 Specialized in **end-to-end validation**, **data integrity**, and **test automation frameworks**  
-- 🤖 Now exploring **AI/ML applications in QA** — from anomaly detection to predictive testing  
+### 📊 [SaaS Data Analytics Platform](https://github.com/EnriC-AI/saas-data-analytics)
+A **SaaS platform** for dataset management, automated analytics (statistics, regression, clustering), and interactive dashboards.  
+- **Stack**: Python (FastAPI, Pandas, Scikit-learn), React, PostgreSQL, Docker, AWS  
+- **Goal**: Democratize data exploration and simplify analytical workflows through automation.  
+
+---
+
+## 🧭 Career Snapshot
+
+| Role | Company | Key Focus |
+|------|----------|------------|
+| **Senior QA & Functional Analyst** | YOOX NET-A-PORTER (Bologna/London) | ERP & Finance QA, Functional Analysis, Payment/Taxation/Shipping flows |
+| **QA Test Analyst** | YOOX NET-A-PORTER | Test Strategy, Automation, API Testing, Agile QA Practices |
+| **Functional Analyst / Sr. .NET Developer** | Altea/Alterna | C#/.NET Development, Business Analysis, QA Collaboration |
+| **Sr. .NET Developer** | SCAI-Almaviva | ERP & Cost Management Systems for Transport Sector |
+
+---
+
+## 🌱 Currently Exploring
+- 🤖 AI/ML in Quality Assurance (Anomaly detection, Predictive QA)
+- 📈 Data validation, reconciliation, and analytics automation
+- 🧩 Integration between QA and Functional Analysis in enterprise systems
+- ⚙️ Continuous improvement of QA pipelines and best practices
 
 ---
 
@@ -51,13 +68,13 @@ A **Python-based framework** that uses **AI/LLMs** to generate and validate test
 
 ---
 
-## 🎯 Fun Facts  
-- ⚽🏉 Sports lover: football, rugby & athletics  
-- ⛰️ Avid hiker & outdoor enthusiast  
-- 🤝 Volunteer at **Fondazione Golinelli** and other non-profits  
-- 🔧 Electronics tinkerer — Arduino, IoT & automation side projects  
-- 🌍 6+ years living and working in the **UK**  
+## 🎯 Beyond Work  
+- ⚽🏉 Passionate about **football, rugby, and athletics**  
+- ⛰️ Enjoy hiking and outdoor adventures  
+- 🤝 Volunteer at **Fondazione Golinelli** and community initiatives  
+- 🔧 Electronics & Arduino enthusiast  
+- 🌍 6+ years of experience working in the **UK**, fluent in English  
 
 ---
 
-⭐️ *“Quality is not just about finding bugs — it’s about building trust in technology.”*
+⭐️ *"Quality is not just about finding bugs — it’s about building trust in technology."*
