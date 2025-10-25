@@ -5,10 +5,10 @@
 ---
 
 ## 🧩 About Me  
-I’m a **Senior QA and Functional Analyst** with over **8+ years of experience** in **software quality assurance** within **ERP, e-commerce, and finance domains** — building a bridge between **business needs** and **technical implementation**.  
-With a strong background as a **.NET developer**, I bring both **analytical depth** and **technical fluency** to every project I contribute to.  
+I’m a **Senior QA and Functional Analyst** with over **8+ years of experience** in **software quality assurance** across **ERP, e-commerce, and finance domains** — bridging **business needs** and **technical solutions**.  
+With a strong foundation as a **.NET developer**, I combine analytical precision with technical insight to deliver **scalable, compliant, and high-quality systems**.  
 
-Currently, I’m focused on **AI-assisted testing**, **data analytics**, and **process optimization** to drive better quality outcomes and accelerate delivery cycles in complex enterprise systems.
+Currently, I focus on **AI-assisted testing**, **data-driven quality validation**, and **process optimization** to enhance efficiency and reliability in enterprise environments.
 
 ---
 
@@ -28,35 +28,34 @@ Currently, I’m focused on **AI-assisted testing**, **data analytics**, and **p
 ## 🚀 Featured Projects
 
 ### 🧠 [AI-Powered Test Case Generator](https://github.com/EnriC-AI/ai-testcase-generator)
-A **Python-based framework** using **AI/LLMs** to generate and validate test cases directly from functional specifications.  
+A **Python-based framework** that uses **AI/LLMs** to generate and validate test cases from functional specifications.  
 - **Stack**: Python, Pytest, YAML/JSON, Jinja2, REST API Testing, OpenAI API  
-- **Focus**: Automating test design and improving traceability between requirements and test coverage.  
+- **Goal**: Automate test case design and ensure traceability between requirements and test coverage.  
 
 ---
 
 ### 📊 [SaaS Data Analytics Platform](https://github.com/EnriC-AI/saas-data-analytics)
-A **SaaS platform** for dataset management, automated analytics (statistics, regression, clustering), and interactive dashboards.  
+A **SaaS platform** for dataset management, automated analytics, and interactive dashboards.  
 - **Stack**: Python (FastAPI, Pandas, Scikit-learn), React, PostgreSQL, Docker, AWS  
-- **Goal**: Democratize data exploration and simplify analytical workflows through automation.  
+- **Goal**: Streamline analytical workflows and deliver actionable business insights through automation.  
 
 ---
 
 ## 🧭 Career Snapshot
 
-| Role | Company | Key Focus |
-|------|----------|------------|
-| **Senior QA & Functional Analyst** | YOOX NET-A-PORTER (Bologna/London) | ERP & Finance QA, Functional Analysis, Payment/Taxation/Shipping flows |
-| **QA Test Analyst** | YOOX NET-A-PORTER | Test Strategy, Automation, API Testing, Agile QA Practices |
-| **Functional Analyst / Sr. .NET Developer** | Altea/Alterna | C#/.NET Development, Business Analysis, QA Collaboration |
-| **Sr. .NET Developer** | SCAI-Almaviva | ERP & Cost Management Systems for Transport Sector |
+- **Senior QA / Functional Analyst** — leading test and validation initiatives, translating business requirements into detailed functional specifications, and ensuring quality across ERP and financial solutions.  
+- **QA Test Analyst** — designing and executing test strategies, implementing automation frameworks, and performing API validation for large-scale e-commerce systems.  
+- **Functional Analyst / Software Engineer** — bridging development and business domains, aligning requirements with deliverables, and driving process improvements.  
+- **Senior .NET Developer** — developing enterprise-grade applications with a focus on performance, reliability, and maintainability.  
+- **Web Developer (early career)** — building dynamic web applications integrating software and hardware components.
 
 ---
 
 ## 🌱 Currently Exploring
 - 🤖 AI/ML in Quality Assurance (Anomaly detection, Predictive QA)
-- 📈 Data validation, reconciliation, and analytics automation
-- 🧩 Integration between QA and Functional Analysis in enterprise systems
-- ⚙️ Continuous improvement of QA pipelines and best practices
+- 📈 Data validation and reconciliation automation
+- 🧩 Integration of QA and Functional Analysis in enterprise systems
+- ⚙️ Continuous improvement of testing pipelines and analytics-driven QA
 
 ---
 
@@ -71,9 +70,9 @@ A **SaaS platform** for dataset management, automated analytics (statistics, reg
 ## 🎯 Beyond Work  
 - ⚽🏉 Passionate about **football, rugby, and athletics**  
 - ⛰️ Enjoy hiking and outdoor adventures  
-- 🤝 Volunteer at **Fondazione Golinelli** and community initiatives  
-- 🔧 Electronics & Arduino enthusiast  
-- 🌍 6+ years of experience working in the **UK**, fluent in English  
+- 🤝 Volunteer at **Fondazione Golinelli** and other non-profits  
+- 🔧 Enthusiast of **electronics, Arduino & IoT projects**  
+- 🌍 6+ years of experience living and working in the **UK**, fluent in English  
 
 ---
 
