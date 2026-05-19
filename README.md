@@ -16,12 +16,12 @@ Currently, I focus on **AI-assisted testing**, **data-driven quality validation*
 
 | Area | Expertise |
 |------|------------|
-| **QA & Testing** | Manual & Automated Testing (Python, Selenium, Pytest), API Testing (REST, SOAP), Test Strategy |
+| **QA & Testing** | Manual & Automated Testing (Python, Selenium, Pytest), API Testing (REST, SOAP), Test Strategy, Test Framework Design |
 | **Functional Analysis** | Business Requirement Gathering, Gap Analysis, Functional Specifications, UAT Coordination |
 | **Programming** | C#/.NET (ex Senior Developer), Python (automation, AI/ML, analytics) |
 | **Methodologies** | Agile (Scrum, Kanban), Functional & Regression Testing, QA Process Design |
 | **Domain Expertise** | ERP/Finance, Payments, Taxation, Shipping, E-commerce |
-| **Tools & Frameworks** | PyCharm, YAML/JSON, Jinja2, OpenAI API, Postman, SoapUI, FastAPI, Docker |
+| **Tools & Frameworks** | PyCharm, YAML/JSON, Jinja2, OpenAI API, Postman, SoapUI, FastAPI, Docker, Allure Reports |
 
 ---
 
@@ -38,6 +38,13 @@ A **Python-based framework** that uses **AI/LLMs** to generate and validate test
 A **SaaS platform** for dataset management, automated analytics, and interactive dashboards.  
 - **Stack**: Python (FastAPI, Pandas, Scikit-learn), React, PostgreSQL, Docker, AWS  
 - **Goal**: Streamline analytical workflows and deliver actionable business insights through automation.  
+
+---
+
+### 🧪 [API Test Framework](https://github.com/EnriC-AI/api_test_framework)
+A **modular API testing framework** designed for scalable and maintainable automated validation of REST services.  
+- **Stack**: Python, Pytest, Requests, YAML/JSON, Jinja2, Allure Reports, CI/CD Integration  
+- **Goal**: Simplify API quality assurance through reusable test architecture, automated validation, and reporting.  
 
 ---
 
