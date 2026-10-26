@@ -1,86 +1,75 @@
 # 👋 Hi, I'm Enrico Caruso
 
-### 💼 Senior QA / Functional Analyst | Former Senior C# Developer | AI & Data Analytics Enthusiast
+### 💼 Senior QA Engineer | Functional Analyst | Quality Engineering & Automation
 
----
+I bridge **business requirements, software quality, and technical implementation**. My background combines **8+ years in QA**, functional analysis across **ERP, finance, and global e-commerce**, and earlier experience as a **Senior C#/.NET Developer**.
 
-## 🧩 About Me  
-I’m a **Senior QA and Functional Analyst** with over **8+ years of experience** in **software quality assurance** across **ERP, e-commerce, and finance domains** — bridging **business needs** and **technical solutions**.  
-With a strong foundation as a **.NET developer**, I combine analytical precision with technical insight to deliver **scalable, compliant, and high-quality systems**.  
-
-Currently, I focus on **AI-assisted testing**, **data-driven quality validation**, and **process optimization** to enhance efficiency and reliability in enterprise environments.
-
----
+I work across requirements analysis, test strategy, API validation, automation, and data quality. I also independently design and develop software projects to explore **AI-assisted testing**, **reusable testing architectures**, and **data analytics**.
 
 ## ⚙️ Core Competencies
 
 | Area | Expertise |
-|------|------------|
-| **QA & Testing** | Manual & Automated Testing (Python, Selenium, Pytest), API Testing (REST, SOAP), Test Strategy, Test Framework Design |
-| **Functional Analysis** | Business Requirement Gathering, Gap Analysis, Functional Specifications, UAT Coordination |
-| **Programming** | C#/.NET (ex Senior Developer), Python (automation, AI/ML, analytics) |
-| **Methodologies** | Agile (Scrum, Kanban), Functional & Regression Testing, QA Process Design |
-| **Domain Expertise** | ERP/Finance, Payments, Taxation, Shipping, E-commerce |
-| **Tools & Frameworks** | PyCharm, YAML/JSON, Jinja2, OpenAI API, Postman, SoapUI, FastAPI, Docker, Allure Reports |
+| --- | --- |
+| **Quality Engineering** | Test strategy & planning, functional and regression testing, API testing (REST/SOAP), test framework design, defect analysis |
+| **Functional Analysis** | Requirements elicitation, business process analysis, functional specifications, stakeholder collaboration, UAT support |
+| **Automation & Development** | Python, Pytest, Selenium WebDriver, Requests, C#/.NET, SQL, CI/CD |
+| **AI & Data** | LLM-assisted test case generation, OpenAI API integration, data validation and reconciliation |
+| **Tools & Platforms** | Postman, SoapUI, Git, YAML/JSON, Jinja2, FastAPI, Docker, Allure Reports |
+| **Business Domains** | ERP, finance, e-commerce, payments, taxation, shipping |
 
----
+## 🚀 Independent Projects | Software Engineering & AI
 
-## 🚀 Featured Projects
+The following projects were **independently designed and developed** to apply quality engineering, software development, AI integration, and analytics to practical challenges.
 
 ### 🧠 [AI-Powered Test Case Generator](https://github.com/EnriC-AI/ai-testcase-generator)
-A **Python-based framework** that uses **AI/LLMs** to generate and validate test cases from functional specifications.  
-- **Stack**: Python, Pytest, YAML/JSON, Jinja2, REST API Testing, OpenAI API  
-- **Goal**: Automate test case design and ensure traceability between requirements and test coverage.  
 
----
+A Python-based solution for generating structured test cases from functional specifications using LLMs.
 
-### 📊 [SaaS Data Analytics Platform](https://github.com/EnriC-AI/saas-data-analytics)
-A **SaaS platform** for dataset management, automated analytics, and interactive dashboards.  
-- **Stack**: Python (FastAPI, Pandas, Scikit-learn), React, PostgreSQL, Docker, AWS  
-- **Goal**: Streamline analytical workflows and deliver actionable business insights through automation.  
-
----
+- **Focus:** Requirements-to-test-case workflows, AI-assisted test design, and test coverage traceability.
+- **Technologies:** Python, Pytest, YAML/JSON, Jinja2, OpenAI API.
+- **Why it matters:** Connects functional analysis with practical test design automation.
 
 ### 🧪 [API Test Framework](https://github.com/EnriC-AI/api_test_framework)
-A **modular API testing framework** designed for scalable and maintainable automated validation of REST services.  
-- **Stack**: Python, Pytest, Requests, YAML/JSON, Jinja2, Allure Reports, CI/CD Integration  
-- **Goal**: Simplify API quality assurance through reusable test architecture, automated validation, and reporting.  
+
+A modular, configuration-driven framework for automated REST API validation.
+
+- **Focus:** Reusable fixtures, parametrized testing, maintainable test architecture, reporting, and CI/CD workflows.
+- **Technologies:** Python, Pytest, Requests, YAML/JSON, Jinja2, Allure Reports.
+- **Why it matters:** Demonstrates a systematic approach to scalable API quality assurance.
+
+### 📊 [SaaS Data Analytics Platform](https://github.com/EnriC-AI/saas-data-analytics)
+
+A full-stack SaaS project focused on dataset management, automated analytics, and dashboards.
+
+- **Focus:** Application architecture, data workflows, backend/frontend integration, and analytical insights.
+- **Technologies:** FastAPI, Pandas, Scikit-learn, React, PostgreSQL, Docker, AWS.
+- **Why it matters:** Shows end-to-end product thinking, from requirements and architecture to implementation and validation.
+
+> Explore each repository for implementation details, documentation, and the current project status.
+
+## 🧭 Professional Background
+
+- **Senior QA / Functional Analyst:** Quality strategy, requirements analysis, and validation of ERP and finance processes in global e-commerce.
+- **QA / Test Analyst:** Functional, regression, and API testing; automation and cross-team collaboration.
+- **Functional Analyst / Senior .NET Developer:** Business-to-technical translation, C#/.NET development, and enterprise application maintenance.
+- **Earlier software engineering roles:** Enterprise systems and web development, including professional experience in the UK.
+
+## 🌱 Areas of Interest
+
+- 🤖 AI-assisted quality engineering and test design
+- 📈 Data-driven validation, reconciliation, and anomaly detection
+- 🧩 Stronger connections between requirements, implementation, and test coverage
+- ⚙️ Maintainable automation frameworks and continuous improvement
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-caruso-7782206)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EnriC-AI)
+
+## 🎯 Beyond Work
+
+Football, rugby, athletics, hiking, volunteering, and electronics projects involving Arduino and IoT. I also bring international experience from living and working in the UK.
 
 ---
 
-## 🧭 Career Snapshot
-
-- **Senior QA / Functional Analyst** — leading test and validation initiatives, translating business requirements into detailed functional specifications, and ensuring quality across ERP and financial solutions.  
-- **QA Test Analyst** — designing and executing test strategies, implementing automation frameworks, and performing API validation for large-scale e-commerce systems.  
-- **Functional Analyst / Software Engineer** — bridging development and business domains, aligning requirements with deliverables, and driving process improvements.  
-- **Senior .NET Developer** — developing enterprise-grade applications with a focus on performance, reliability, and maintainability.  
-- **Web Developer (early career)** — building dynamic web applications integrating software and hardware components.
-
----
-
-## 🌱 Currently Exploring
-- 🤖 AI/ML in Quality Assurance (Anomaly detection, Predictive QA)
-- 📈 Data validation and reconciliation automation
-- 🧩 Integration of QA and Functional Analysis in enterprise systems
-- ⚙️ Continuous improvement of testing pipelines and analytics-driven QA
-
----
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/enrico-caruso-7782206"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/EnriC-AI"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 🎯 Beyond Work  
-- ⚽🏉 Passionate about **football, rugby, and athletics**  
-- ⛰️ Enjoy hiking and outdoor adventures  
-- 🤝 Volunteer at **Fondazione Golinelli** and other non-profits  
-- 🔧 Enthusiast of **electronics, Arduino & IoT projects**  
-- 🌍 6+ years of experience living and working in the **UK**, fluent in English  
-
----
-
-⭐️ *"Quality is not just about finding bugs — it’s about building trust in technology."*
+*Quality is not just about finding bugs — it's about building trust in technology.*
